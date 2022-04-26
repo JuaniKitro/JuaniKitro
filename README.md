@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **contacto@juanikitro.com or jpkitro@gmail.com**
 
-- 📄 You can find me in LinkedIn [www.linkedin.com/in/juanikitro/](www.linkedin.com/in/juanikitro/)
-
-- ⚡ Personal fact **I love travel in Argentina <3**
+- ⚡ Personal fact **I love to travel in Argentina <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
