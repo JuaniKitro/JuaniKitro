@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **MailAmerica**
 
-- 🌱 I’m currently learning **Python, Pandas, Scarpy, Spark, Hadoop, etc.**
+- 🌱 I’m currently learning **everything you need :)**
 
-- 👯 I’m looking to collaborate on **Data projects**
+- 👯 I’m looking to collaborate on **Data or Backend projects**
 
-- 🤝 I’m looking for help with **my Data Engineer career**
+- 🤝 I’m looking for help with **my Machine Learning Engineer career**
 
 - 👨‍💻 All of my projects are available at [juanikitro.com](juanikitro.com)
 
-- 📫 How to reach me **contacto@juanikitro.com or jpkitro@gmail.com**
+- 📫 Send me a email to **contacto@juanikitro.com**
 
-- ⚡ Personal fact **I love to travel in Argentina <3**
+- ⚡ Personal fact **I love to learn things and travel in Argentina <3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
