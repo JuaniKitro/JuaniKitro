@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything you need :)**
 
-- 👨‍💻 More about me in: ** [juanikitro.com](https://juanikitro.com/) **
+- 👨‍💻 More about me in: **[juanikitro.com](https://juanikitro.com/)**
 
 - 📫 Send me a email to **contacto@juanikitro.com**
 
