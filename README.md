@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm JuaniKitro.</h1>
-<h3 align="center">A curious dev</h3>
+<h1>Hi! I'm JuaniKitro.</h1>
+<h3>A curious dev</h3>
 
 - 🔭 I’m currently working on **MailAmerica**
 
