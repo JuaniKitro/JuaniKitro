@@ -16,7 +16,3 @@
 
 - [Ecommerce simulator](https://github.com/juanikitro/ecommerce-simulator): This is a project that I'm working on for practice my NestJS skills and all the necessary to build a consistent backend.
 - [SOAC](https://github.com/juanikitro/Sistema-de-Organizaciones-de-Accion-Comunitaria): This is my bigger real project. The goal was to create a system that will help "General Directorate of Community Relations" to organize the actions of the community.
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanikitro&show_icons=true&locale=en&layout=compact" alt="juanikitro" /></p>
