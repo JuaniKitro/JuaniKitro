@@ -1,14 +1,17 @@
 <h1>Hi! I'm JuaniKitro, a curious dev</h1>
 
-<h3>About me:</h3>
+<h3>My profile:</h3>
 
-- 🔭 I’m currently working on **MailAmerica** as **Developer Analyst**
-
-- 🌱 I’m currently learning **backend in typescript** and **devops** 
-
-- 👨‍💻 My portfolio in **[juanikitro.com](https://juanikitro.com/)**
-
-- 📫 Send me a email to **contacto@juanikitro.com** or contact me in **[LinkedIn](https://linkedin.com/in/juanikitro)**
+```typescript
+let juanikitro: developerInterface = {
+	currentlyWorking: 'DevOps on MailAmericas',
+	currentlyLearning: 'Backend in TypeScript and DevOps administration',
+	portfolio: 'juanikitro.com',
+	curriculum: 'curriculum.juanikitro.com',
+	contact: 'contacto@juanikitro.com',
+	linkedin: 'linkedin.com/in/juanikitro',
+}
+```
 
 <br />
 
