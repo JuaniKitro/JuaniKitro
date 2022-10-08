@@ -10,6 +10,7 @@ let juanikitro: developerInterface = {
 	curriculum: 'curriculum.juanikitro.com',
 	contact: 'contacto@juanikitro.com',
 	linkedin: 'linkedin.com/in/juanikitro',
+	medium: 'https://medium.com/@juanikitro'
 }
 ```
 
@@ -21,4 +22,5 @@ let juanikitro: developerInterface = {
 - [SOAC](https://github.com/juanikitro/Sistema-de-Organizaciones-de-Accion-Comunitaria): This is my bigger real project. The goal was to create a system that will help "General Directorate of Community Relations" to organize the actions of the community.
 
 <h3>Featured articles:</h3>
-- [Selenium in the same container as my app](https://medium.com/@juanikitro/selenium-in-the-same-container-as-my-app-5a0ddb355f6a)
+
+- [Selenium standalone alternative](https://medium.com/@juanikitro/selenium-in-the-same-container-as-my-app-5a0ddb355f6a).
