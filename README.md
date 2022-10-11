@@ -4,8 +4,8 @@
 
 ```typescript
 let juanikitro: developerInterface = {
-	currentlyWorking: 'DevOps on MailAmericas',
-	currentlyLearning: 'Backend in TypeScript and DevOps administration',
+	currentlyWorking: 'DevOps at MailAmericas',
+	currentlyLearning: 'DevOps administration and backend in TypeScript ',
 	portfolio: 'juanikitro.com',
 	curriculum: 'curriculum.juanikitro.com',
 	contact: 'contacto@juanikitro.com',
