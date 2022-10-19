@@ -7,7 +7,8 @@ let juanikitro: developerInterface = {
 	currentlyWorking: 'DevOps at MailAmericas',
 	currentlyLearning: 'DevOps administration and backend in TypeScript ',
 	portfolio: 'juanikitro.com',
-	curriculum: 'curriculum.juanikitro.com',
+	onlineCV: 'curriculum.juanikitro.com',
+	interactiveCV: 'https://www.getmanfred.com/es/perfil/juanikitro'
 	contact: 'contacto@juanikitro.com',
 	linkedin: 'linkedin.com/in/juanikitro',
 	medium: 'https://medium.com/@juanikitro'
