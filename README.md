@@ -25,5 +25,7 @@ let juanikitro: developerInterface = {
 
 - [Selenium standalone alternative](https://medium.com/@juanikitro/selenium-in-the-same-container-as-my-app-5a0ddb355f6a).
 
+<h3>Stats:</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanikitro&show_icons=true&locale=en&layout=compact" alt="juanikitro" /></p>
 
