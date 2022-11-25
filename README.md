@@ -5,13 +5,13 @@
 ```typescript
 let juanikitro: developerInterface = {
 	currentlyWorking: 'DevOps at MailAmericas',
-	currentlyLearning: 'DevOps administration and backend in TypeScript ',
+	currentlyLearning: 'DevOps Skills and BackEnd with NodeJS and TypeScript',
+	age: 20,
+	workingSince: '04/2021'
 	portfolio: 'juanikitro.com',
-	onlineCV: 'curriculum.juanikitro.com',
-	interactiveCV: 'https://www.getmanfred.com/es/perfil/juanikitro'
+	onlineCurriculum: 'curriculum.juanikitro.com',
 	contact: 'contacto@juanikitro.com',
-	linkedin: 'linkedin.com/in/juanikitro',
-	medium: 'https://medium.com/@juanikitro'
+	linkedin: 'linkedin.com/in/juanikitro'
 }
 ```
 
