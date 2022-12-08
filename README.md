@@ -1,13 +1,13 @@
-<h1>Hi! I'm JuaniKitro, a curious dev</h1>
+<h1>Hi! I'm JuaniKitro, a inquisitive dev</h1>
 
 <h3>My profile:</h3>
 
 ```typescript
-let juanikitro: developerInterface = {
+const juanikitro: developerInterface = {
 	currentlyWorking: 'DevOps at MailAmericas',
 	currentlyLearning: 'DevOps Skills and BackEnd with NodeJS and TypeScript',
 	age: 20,
-	workingSince: '04/2021'
+	workingSince: '04/2021',
 	portfolio: 'juanikitro.com',
 	onlineCurriculum: 'curriculum.juanikitro.com',
 	contact: 'contacto@juanikitro.com',
