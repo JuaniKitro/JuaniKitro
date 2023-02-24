@@ -8,9 +8,8 @@ const juanikitro: developerInterface = {
 	currentlyLearning: 'DevOps Skills and BackEnd with NodeJS and TypeScript',
 	age: 20,
 	workingSince: '04/2021',
-	portfolio: 'juanikitro.com',
-	onlineCurriculum: 'curriculum.juanikitro.com',
-	contact: 'contacto@juanikitro.com',
+	onlineCurriculum: '[curriculum.juanikitro.com](https://drive.google.com/file/d/1Aa4mJ8FKV05EWfy_PJmySw8E_bJZS5aH/view?usp=sharing)',
+	contact: 'jpkitro@gmail.com',
 	linkedin: 'linkedin.com/in/juanikitro'
 }
 ```
