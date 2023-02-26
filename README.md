@@ -5,12 +5,13 @@
 ```typescript
 const juanikitro: developerInterface = {
 	currentlyWorking: 'DevOps at MailAmericas',
-	currentlyLearning: 'DevOps Skills and BackEnd with NodeJS and TypeScript',
+	currentlyLearning: 'DevOps Skills and BackEnd with NodeJS or Python',
 	age: 20,
 	workingSince: '04/2021',
 	contact: 'jpkitro@gmail.com',
 	linkedin: 'linkedin.com/in/juanikitro',
-	onlineCurriculum: 'https://drive.google.com/file/d/1Aa4mJ8FKV05EWfy_PJmySw8E_bJZS5aH/view?usp=sharing'
+	onlineCurriculum:
+		'https://drive.google.com/file/d/1Aa4mJ8FKV05EWfy_PJmySw8E_bJZS5aH/view?usp=sharing',
 }
 ```
 
