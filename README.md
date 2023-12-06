@@ -4,7 +4,7 @@
 
 ```typescript
 const juanikitro: developerInterface = {
-	currentlyWorking: 'DevOps & Backend developer',
+	currentlyWorking: 'Backend & DevOps developer',
 	currentlyLearning: 'OpenJS Node.js Services Developer (JSNSD) certification',
 	age: 2|,
 	workingSince: '04/2021',
