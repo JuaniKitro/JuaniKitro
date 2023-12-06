@@ -4,9 +4,9 @@
 
 ```typescript
 const juanikitro: developerInterface = {
-	currentlyWorking: 'DevOps at Rapihogar',
-	currentlyLearning: 'Google Cloud Platform administrator',
-	age: 20,
+	currentlyWorking: 'DevOps & Backend developer',
+	currentlyLearning: 'OpenJS Node.js Services Developer (JSNSD) certification',
+	age: 2|,
 	workingSince: '04/2021',
 	contact: 'jpkitro@gmail.com',
 	linkedin: 'linkedin.com/in/juanikitro',
