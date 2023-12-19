@@ -2,14 +2,14 @@
 
 <h3>My profile:</h3>
 
-```typescript
-const juanikitro: developerInterface = {
-	currentlyWorking: 'Backend & DevOps developer',
-	currentlyLearning: 'OpenJS Node.js Services Developer (JSNSD) certification',
-	age: 2|,
-	workingSince: '04/2021',
-	contact: 'jpkitro@gmail.com',
-	linkedin: 'linkedin.com/in/juanikitro',
+```json
+{
+    "currentlyWorking": "Backend & DevOps developer",
+    "currentlyLearning": "OpenJS Node.js Services Developer (JSNSD) certification",
+    "age": 21,
+    "workingSince": "04/2021",
+    "contact": "jpkitro@gmail.com",
+    "linkedin": "<a href='https://www.linkedin.com/in/juanikitro/'>juanikitro</a>"
 }
 ```
 
